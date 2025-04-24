@@ -28,6 +28,10 @@ http://42.227.88.121:4022/rtp/225.1.4.54:1083
 #EXTINF:-1 tvg-name="河南法治" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南法治.png" group-title="☘️河南频道",河南法治
 http://www.cdnstv.com:6398/hls/1112/index.m3u8
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南电视剧.png" group-title="☘️河南频道",河南电视剧
+http://219.154.185.68:4022/rtp/225.1.4.55:1084
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南电视剧.png" group-title="☘️河南频道",河南电视剧
+http://42.227.88.121:4022/rtp/225.1.4.55:1084
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南电视剧.png" group-title="☘️河南频道",河南电视剧
 http://www.cdnstv.com:6398/hls/1113/index.m3u8
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南公共.png" group-title="☘️河南频道",河南公共
 http://219.154.185.68:4022/rtp/225.1.4.58:1087
@@ -51,6 +55,14 @@ http://219.154.185.68:4022/rtp/225.1.4.99:1128
 http://42.227.88.121:4022/rtp/225.1.4.99:1128
 #EXTINF:-1 tvg-name="河南戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南戏曲.png" group-title="☘️河南频道",河南戏曲
 http://www.cdnstv.com:6398/hls/1119/index.m3u8
+#EXTINF:-1 tvg-name="收藏天下" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/收藏天下.png" group-title="☘️河南频道",收藏天下
+http://219.154.185.68:4022/rtp/225.1.4.100:1129
+#EXTINF:-1 tvg-name="收藏天下" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/收藏天下.png" group-title="☘️河南频道",收藏天下
+http://42.227.88.121:4022/rtp/225.1.4.100:1129
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武术世界.png" group-title="☘️河南频道",武术世界
+http://219.154.185.68:4022/rtp/225.1.4.101:1130
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武术世界.png" group-title="☘️河南频道",武术世界
+http://42.227.88.121:4022/rtp/225.1.4.101:1130
 #EXTINF:-1 tvg-name="郸城新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/郸城新闻综合.png" group-title="☘️河南频道",郸城新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&amp;wsTime=1654956569
 #EXTINF:-1 tvg-name="登封综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/登封综合.png" group-title="☘️河南频道",登封综合
@@ -3075,5 +3087,5 @@ url
 url
 #EXTINF:-1 tvg-name="七台河民生社教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七台河民生社教.png" group-title="🈳无结果频道",七台河民生社教
 url
-#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="🕘️更新时间",2025-04-24 11:23:40
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="🕘️更新时间",2025-04-24 12:16:26
 http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
