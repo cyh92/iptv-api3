@@ -76,6 +76,7 @@
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
 ☘️浙江频道,#genre#
+「浙江」数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 「浙江」缙云综合频道,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed&quot;
 「浙江」开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 「浙江」开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
@@ -314,7 +315,6 @@
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
-筠连综合,http://live.dameijunlian.cn:80/live1/live1.m3u8
 荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
@@ -389,11 +389,6 @@
 黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
 黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
-祁门综合,http://live.cztv.cc:85/live/sjpd.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8?zanhd#http://live.cztv.cc:85/live/xwpd.m3u8
-滁州市广播电视台 新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
-滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd#http://live.cztv.cc:85/live/ggpd.m3u8
 六安新闻综合,http://ls.qingting.fm/live/267.m3u8
 六安公共,http://ls.qingting.fm/live/1794199.m3u8
 
@@ -588,7 +583,6 @@ IPTV热播剧场,url
 「浙江」钱江,url
 「浙江」公共新闻,url
 「浙江」教科影院,url
-「浙江」数码时代,url
 「浙江」民生休闲,url
 「浙江」经济生活,url
 「浙江」钱江频道,url
@@ -973,6 +967,7 @@ BTV纪实,url
 甘洛综合,url
 盐亭综合,url
 石棉综合,url
+筠连综合,url
 纳溪新闻,url
 绵阳科技,url
 绵阳综合,url
@@ -1382,11 +1377,16 @@ BTV纪实,url
 肥东经济生活,url
 繁昌新闻综合,url
 繁昌文体娱乐,url
+祁门综合,url
 石台综合,url
 灵璧综合,url
 潜山新闻综合,url
+滁州科教,url
+滁州新闻综合,url
 滁州市广播电视台 科教,url
+滁州市广播电视台 新闻综合,url
 滁州市广播电视台 公共,url
+滁州公共,url
 湾沚区新闻综合,url
 淮南新闻综合,url
 淮南公共,url
@@ -1569,4 +1569,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2025-05-03 22:27:06,http://1.94.31.214/php/hntv.php?id=hnds
+2025-05-03 23:30:04,http://1.94.31.214/php/hntv.php?id=hnds
