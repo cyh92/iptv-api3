@@ -145,6 +145,8 @@ http://php.jdshipin.com:8880/fstv.php?id=fsgm
 http://php.jdshipin.com:8880/fstv.php?id=fsss
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="☘️广东频道",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 tvg-name="「浙江」数码时代" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/「浙江」数码时代.png" group-title="☘️浙江频道",「浙江」数码时代
+http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="「浙江」缙云综合频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/「浙江」缙云综合频道.png" group-title="☘️浙江频道",「浙江」缙云综合频道
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed&quot;
 #EXTINF:-1 tvg-name="「浙江」开化国家公园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/「浙江」开化国家公园.png" group-title="☘️浙江频道",「浙江」开化国家公园
@@ -443,6 +445,8 @@ http://z.b.bkpcp.top/m.php?id=njxwzh
 https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-name="徐州新聞綜合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/徐州新聞綜合.png" group-title="☘️江苏频道",徐州新聞綜合
 http://z.b.bkpcp.top/m.php?id=xzxwzh
+#EXTINF:-1 tvg-name="新沂新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新沂新闻.png" group-title="☘️江苏频道",新沂新闻
+http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 #EXTINF:-1 tvg-name="新沂生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新沂生活.png" group-title="☘️江苏频道",新沂生活
 http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无锡娱乐.png" group-title="☘️江苏频道",无锡娱乐
@@ -519,6 +523,8 @@ http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m
 http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae
 #EXTINF:-1 tvg-name="南宁都市生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南宁都市生活.png" group-title="☘️广西频道",南宁都市生活
 http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
+#EXTINF:-1 tvg-name="宾阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宾阳综合.png" group-title="☘️广西频道",宾阳综合
+http://pulls.myun.tv/live/0dkp33j5.m3u8
 #EXTINF:-1 tvg-name="灌阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/灌阳新闻综合.png" group-title="☘️广西频道",灌阳新闻综合
 https://ls.qingting.fm/live/5043/64k.m3u8
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西新闻.png" group-title="☘️广西频道",广西新闻
@@ -625,6 +631,8 @@ http://z.b.bkpcp.top/m.php?id=sdjy
 http://goo.bkpcp.top/mg/sdjy
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东生活.png" group-title="☘️山东频道",山东生活
 http://ls.qingting.fm/live/60260.m3u8
+#EXTINF:-1 tvg-name="五台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五台综合.png" group-title="☘️山西频道",五台综合
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd&amp;quot;
 #EXTINF:-1 tvg-name="原平综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/原平综合.png" group-title="☘️山西频道",原平综合
 http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
 #EXTINF:-1 tvg-name="古县综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/古县综合.png" group-title="☘️山西频道",古县综合
@@ -1023,8 +1031,6 @@ url
 url
 #EXTINF:-1 tvg-name="「浙江」教科影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/「浙江」教科影院.png" group-title="🈳无结果频道",「浙江」教科影院
 url
-#EXTINF:-1 tvg-name="「浙江」数码时代" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/「浙江」数码时代.png" group-title="🈳无结果频道",「浙江」数码时代
-url
 #EXTINF:-1 tvg-name="「浙江」民生休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/「浙江」民生休闲.png" group-title="🈳无结果频道",「浙江」民生休闲
 url
 #EXTINF:-1 tvg-name="「浙江」经济生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/「浙江」经济生活.png" group-title="🈳无结果频道",「浙江」经济生活
@@ -1363,8 +1369,6 @@ url
 url
 #EXTINF:-1 tvg-name="扬州邗江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/扬州邗江.png" group-title="🈳无结果频道",扬州邗江
 url
-#EXTINF:-1 tvg-name="新沂新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新沂新闻.png" group-title="🈳无结果频道",新沂新闻
-url
 #EXTINF:-1 tvg-name="武进新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武进新闻.png" group-title="🈳无结果频道",武进新闻
 url
 #EXTINF:-1 tvg-name="武进生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武进生活.png" group-title="🈳无结果频道",武进生活
@@ -1620,8 +1624,6 @@ url
 #EXTINF:-1 tvg-name="博白综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博白综合.png" group-title="🈳无结果频道",博白综合
 url
 #EXTINF:-1 tvg-name="天等综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天等综合.png" group-title="🈳无结果频道",天等综合
-url
-#EXTINF:-1 tvg-name="宾阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宾阳综合.png" group-title="🈳无结果频道",宾阳综合
 url
 #EXTINF:-1 tvg-name="岑溪综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/岑溪综合.png" group-title="🈳无结果频道",岑溪综合
 url
@@ -2505,8 +2507,6 @@ url
 url
 #EXTINF:-1 tvg-name="万荣综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万荣综合.png" group-title="🈳无结果频道",万荣综合
 url
-#EXTINF:-1 tvg-name="五台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五台综合.png" group-title="🈳无结果频道",五台综合
-url
 #EXTINF:-1 tvg-name="优购物电视购物" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优购物电视购物.png" group-title="🈳无结果频道",优购物电视购物
 url
 #EXTINF:-1 tvg-name="吉县新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉县新闻综合.png" group-title="🈳无结果频道",吉县新闻综合
@@ -2995,5 +2995,5 @@ url
 url
 #EXTINF:-1 tvg-name="七台河民生社教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七台河民生社教.png" group-title="🈳无结果频道",七台河民生社教
 url
-#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="🕘️更新时间",2025-06-14 16:39:59
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="🕘️更新时间",2025-06-14 17:29:56
 http://1.94.31.214/php/hntv.php?id=hnds
