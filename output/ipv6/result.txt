@@ -63,7 +63,6 @@
 广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi#https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai#https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
@@ -257,7 +256,6 @@
 淮安新闻综合,http://z.b.bkpcp.top/m.php?id=haxwzh
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 苏州新闻综合,http://z.b.bkpcp.top/m.php?id=szxwzh
-连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
 连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港新闻综合,http://z.b.bkpcp.top/m.php?id=lygxwzh
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
@@ -306,6 +304,7 @@
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
+甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 筠连综合,http://live.dameijunlian.cn:80/live1/live1.m3u8
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
@@ -779,6 +778,7 @@ BTV纪实,url
 贾汪新闻,url
 贾汪旅游,url
 赣榆新闻综合,url
+连云港公共,url
 金坛新闻,url
 镇江二套社会民生,url
 镇江新闻综合,url
@@ -961,7 +961,6 @@ BTV纪实,url
 沙湾综合,url
 渠县新闻综合,url
 珙县综合,url
-甘孜综合,url
 甘洛综合,url
 盐亭综合,url
 石棉综合,url
@@ -1560,4 +1559,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2025-06-16 23:31:51,http://1.94.31.214/php/hntv.php?id=hnds
+2025-06-17 00:36:01,http://1.94.31.214/php/hntv.php?id=hnds
