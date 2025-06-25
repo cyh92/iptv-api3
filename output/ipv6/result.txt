@@ -110,6 +110,7 @@
 浙江钱江台,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
 浙江经济生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
 浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
@@ -193,7 +194,6 @@
 
 ☘️北京频道,#genre#
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
-北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 北京新闻,http://yc.myds.me:35455/bptv/10000100000000050000000003870780.m3u8
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
 
@@ -216,7 +216,6 @@
 法治天地,http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
 法治天地,http://z.b.bkpcp.top/m.php?id=fztd
 第一财经,http://ls.qingting.fm/live/276.m3u8
-第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 
 ☘️重庆频道,#genre#
 
@@ -257,7 +256,6 @@
 淮安新闻综合,http://z.b.bkpcp.top/m.php?id=haxwzh
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 苏州新闻综合,http://z.b.bkpcp.top/m.php?id=szxwzh
-连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港新闻综合,http://z.b.bkpcp.top/m.php?id=lygxwzh
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
 
@@ -304,8 +302,6 @@
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
-泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
-甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 筠连综合,http://live.dameijunlian.cn:80/live1/live1.m3u8
 荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
@@ -337,6 +333,7 @@
 鹿泉二套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd#https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
 衡水公共,http://ls.qingting.fm/live/2810.m3u8
@@ -359,8 +356,8 @@
 
 ☘️山东频道,#genre#
 山东新闻,http://ls.qingting.fm/live/60180.m3u8
-山东教育,http://z.b.bkpcp.top/m.php?id=sdjy
 山东教育,http://goo.bkpcp.top/mg/sdjy
+山东教育,http://z.b.bkpcp.top/m.php?id=sdjy
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 
 ☘️山西频道,#genre#
@@ -961,6 +958,7 @@ BTV纪实,url
 沙湾综合,url
 渠县新闻综合,url
 珙县综合,url
+甘孜综合,url
 甘洛综合,url
 盐亭综合,url
 石棉综合,url
@@ -1087,7 +1085,6 @@ BTV纪实,url
 唐山公共,url
 睛彩河北,url
 大名电视台,url
-邯郸科技教育,url
 邯郸科教,url
 邢台城生,url
 任丘文娱,url
@@ -1561,4 +1558,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2025-06-25 12:40:15,http://1.94.31.214/php/hntv.php?id=hnds
+2025-06-25 13:30:23,http://1.94.31.214/php/hntv.php?id=hnds
