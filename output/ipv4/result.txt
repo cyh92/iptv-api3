@@ -104,9 +104,11 @@
 浙江钱江台,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
@@ -207,8 +209,8 @@
 
 ☘️北京频道,#genre#
 北京新闻,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv9&videoTVChannel=btv9&P2PChannelID=pd://cctv_p2p_hdbtv9&tai=btv9&VideoName=btv9&channelID=btv9
-北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京生活,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv7&videoTVChannel=btv7&P2PChannelID=pd://cctv_p2p_hdbtv7&tai=btv7&VideoName=btv7&channelID=btv7
 北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
 北京财经,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv5&videoTVChannel=btv5&P2PChannelID=pd://cctv_p2p_hdbtv5&tai=btv5&VideoName=btv5&channelID=btv5
@@ -252,7 +254,6 @@
 生活时尚,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225603/iptv7992.smil
 生活时尚,rtsp://115.153.233.154/PLTV/88888888/224/3221225603/iptv7992.smil
 生活时尚,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000418?AuthInfo=xxx&userid=gf001&userid=gf001
-第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 都市剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil
@@ -286,8 +287,8 @@
 溧水新闻综合,http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&amp;wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&amp;wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 靖江新闻综合,rtmp://visit.jjbctv.com:1935/live/xwzhmb?zjiangsd
 
 ☘️辽宁频道,#genre#
@@ -326,7 +327,6 @@
 金鹰卡通,rtsp://115.153.233.154/PLTV/88888888/224/3221226972/80382319.smil
 
 ☘️湖北频道,#genre#
-湖北生活,http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
 湖北生活,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
@@ -348,7 +348,7 @@
 
 ☘️天津频道,#genre#
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
+津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&amp;amp;wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&amp;amp;wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&amp;amp;wsiphost=local&amp;amp;wsBindIP=1
 
 ☘️四川频道,#genre#
 乐山新闻综合,http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
@@ -374,17 +374,15 @@
 金川新闻综合,rtmp://live.jinchuanrmt.com/live/zhxw
 金川新闻综合,rtmp://139.203.180.9/live/zhxw
 长宁综合,rtmp://cnpull.sccnfb.com/live/123456
+青神综合,http://lmt.scqstv.com/live1/live1.m3u8?zsicd?
 马尔康综合,rtmp://live.zmmek.com/live/zhxw
 龙泉驿新闻综合,http://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
 
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
-福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 
 ☘️海南频道,#genre#
-海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 海南新闻,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 
 ☘️河北频道,#genre#
@@ -512,7 +510,6 @@
 ☘️宁夏频道,#genre#
 
 ☘️吉林频道,#genre#
-「吉林」延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 「吉林」延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
 吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 
@@ -542,6 +539,7 @@
 金平综合,http://live.ynurl.com/video/s10041-JPTV/index.m3u8?zyund
 
 ☘️青海频道,#genre#
+青海综合,http://lmt.scqstv.com/live1/live1.m3u8
 
 ☘️黑龙江频道,#genre#
 「黑龙江」佳木斯新闻综合「IPV6」,rtmp://masterpull.hljtv.com/live/l9wQtsVs
@@ -1045,6 +1043,7 @@ BTV纪实,url
 滨海新闻,url
 滨海综艺,url
 滨海影院,url
+武清综合,url
 天津都市,url
 天津新闻,url
 天津文艺,url
@@ -1121,7 +1120,6 @@ BTV纪实,url
 雅安新闻综合,url
 雅安雨城,url
 青川综合,url
-青神综合,url
 马边电视台,url
 陕西1套,url
 陕西2套,url
@@ -1171,7 +1169,9 @@ BTV纪实,url
 龙岩公共,url
 龙岩新闻综合,url
 福建文体,url
+福建新闻,url
 福建电视剧,url
+福建经济,url
 福建综合,url
 福建公共,url
 福建旅游,url
@@ -1658,7 +1658,6 @@ BTV纪实,url
 湟中电视台,url
 青海经视,url
 青海都市,url
-青海综合,url
 「黑龙江」黑龙江文体「IPV6」,url
 「黑龙江」黑龙江农业科教「IPV6」,url
 「黑龙江」黑龙江都市「IPV6」,url
@@ -1691,4 +1690,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2025-07-06 02:33:51,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8?
+2025-07-06 03:22:44,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8?
