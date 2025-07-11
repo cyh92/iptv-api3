@@ -106,12 +106,15 @@
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n
 浙江经济生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
+浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
 浙江新闻,http://api3.52tb.xyz/info?id=434&token=20221127jxwhhemby
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
@@ -252,7 +255,6 @@
 生活时尚,rtsp://115.153.233.154/PLTV/88888888/224/3221225603/iptv7992.smil
 生活时尚,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000418?AuthInfo=xxx&userid=gf001&userid=gf001
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 都市剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil
 都市剧场,rtsp://115.153.254.81/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil
@@ -327,12 +329,11 @@
 金鹰卡通,rtsp://115.153.233.154/PLTV/88888888/224/3221226972/80382319.smil
 
 ☘️湖北频道,#genre#
-湖北生活,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
 湖北生活,http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+湖北生活,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
 ☘️广西频道,#genre#
-南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁公共,rtmp://live.gxrb.com.cn/tv/nntv_gg
 南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
@@ -353,6 +354,7 @@
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️四川频道,#genre#
+乐山新闻综合,http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
 凉山新闻综合,rtmp://tv.drs.i0834.cn/channellive/ch1?zsicd
 凉山新闻综合,rtmp://tv.drs.yizu.tv/channellive/ch1?zsicd
@@ -386,8 +388,8 @@
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 
 ☘️海南频道,#genre#
-海南新闻,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+海南新闻,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 
 ☘️河北频道,#genre#
 河北都市,http://api3.52tb.xyz/info?id=481&token=20221127jxwhhemby
@@ -536,9 +538,8 @@
 砚山电视台,http://live.ynurl.com/video/s10020-ystv/index.m3u8?zyund
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8?zyund
 芒市综合,http://live.ynurl.com/video/s10001-mstv1/index.m3u8?zyund
-蒙自综合,http://live.ynurl.com/video/s10019-mzdst/index.m3u8?zyund
+蒙自综合,http://live.ynurl.com/video/s10019-mzdst/index.m3u8
 通海电视台,http://live.ynurl.com/video/s10038-thtv/index.m3u8?zyund
-金平综合,http://live.ynurl.com/video/s10041-JPTV/index.m3u8?zyund
 
 ☘️青海频道,#genre#
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8
@@ -1049,7 +1050,6 @@ BTV纪实,url
 万源新闻综合,url
 东兴综合,url
 乐山公共,url
-乐山新闻综合,url
 九寨沟新闻综合,url
 井研综合,url
 什邡新闻,url
@@ -1634,6 +1634,7 @@ BTV纪实,url
 西双版纳公共,url
 西双版纳综合,url
 贡山综合,url
+金平综合,url
 陇川综合,url
 马关电视台,url
 麻栗坡电视台,url
@@ -1690,4 +1691,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2025-07-11 18:29:23,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8?
+2025-07-11 19:25:45,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8?
