@@ -60,10 +60,10 @@
 
 ☘️广东频道,#genre#
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东珠江,http://r.jdshipin.com/sE5vO
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://r.jdshipin.com/LiYdg
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi#https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai#https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
@@ -77,32 +77,29 @@
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
 ☘️浙江频道,#genre#
-浙江钱江都市,http://zwebl02.cztv.com/live/channel021080P.m3u8?auth_key=2524708799-0-0-43f14b8147c890428975655007afb4cc
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
-浙江经济生活,http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37
+浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
-浙江新闻,http://zwebl02.cztv.com/live/channel071080P.m3u8?auth_key=2524708799-0-0-e3b50ca59d2c0883d5386d8bc4cdefbc
+浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 杭州综合,http://goo.bkpcp.top/mg/hzzh
 杭州明珠,http://goo.bkpcp.top/mg/hzmz
 杭州生活,http://goo.bkpcp.top/mg/hzsh
 杭州影视,http://goo.bkpcp.top/mg/hzys
 杭州少体,http://goo.bkpcp.top/mg/hzse
-浙江经济,http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37
-之江纪录,http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037
 之江纪录,http://goo.bkpcp.top/mg/zjjl
-浙江国际,http://zwebl02.cztv.com/live/channel101080P.m3u8?auth_key=2524708799-0-0-c9473fea1da3eff0f29f4c9cf2b36519
 浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=d26568bae9dd23dd781c769c148459b2&t=1683180450
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
 浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
-浙江教科影视,http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa
 嵊泗综合,http://goo.bkpcp.top/mg/ssxwzh
 
 ☘️北京频道,#genre#
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
 北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+北京新闻,http://dsj.motem.top:8880/bptv/10000100000000050000000003870780.m3u8
 
 ☘️上海频道,#genre#
 七彩戏剧,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000011000031116
@@ -150,6 +147,8 @@
 淮安新闻综合,http://z.b.bkpcp.top/m.php?id=haxwzh
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 苏州新闻综合,http://z.b.bkpcp.top/m.php?id=szxwzh
+连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
+连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港新闻综合,http://z.b.bkpcp.top/m.php?id=lygxwzh
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
 
@@ -173,6 +172,7 @@
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 
 ☘️广西频道,#genre#
+北海经济科教,https://play-a2.quklive.com:443/live/1727311690820146.m3u8
 南宁公共,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae
 南宁新闻综合,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
@@ -195,6 +195,7 @@
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
+泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
@@ -202,10 +203,8 @@
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 
 ☘️陕西频道,#genre#
-陕西新闻资讯,https://mursor.ottiptv.cc/migu/956909289.m3u8?migutoken=0770709052a67caadc35eb712fda2a2c9bb60a302a7e786ae58e0c153ff6276f9bb5eeefb3ca81acf7d011b10fcb5293ca7b44d316dae9eab1c7f397fb90f44073c2b12fe6ddf580c32e9f4e17
-陕西都市青春,https://mursor.ottiptv.cc/migu/956909358.m3u8?migutoken=dc8646c0f5f1405828773dddb4a5ed2a27fb7286fc3c8c8329abd3586c58b99f0ca06ef2d9a2d6b3ecacb0fb7ba1db61b8fa9d38d29c369b9915c29f241f322078b9ad13fe358cae86e829ca13
 陕西公共,http://ls.qingting.fm/live/1222.m3u8
-陕西体育休闲,https://mursor.ottiptv.cc/migu/956909356.m3u8?migutoken=874a87800bc73966a73fa2accf3d8cd825b0197140b2ada5739752607274ab3545e032044cf5d95e39069dd159d8cd799fd6c682fa6961828225c0b8cc24b59c1eb3090645247c302e7eedfee1
+陕西体育休闲,https://mursor.ottiptv.cc/migu/956909356.m3u8?migutoken=ed9349eeb8db497b6888143c6b47092ef367f8dc5fbbb7ebef0e68fdd72243de98ea0a5c092c2f695a7725b7f0633885212d4f20e4e6dd176f3cadbcabef8ed373bb4a59d8563ab65b8c99fdc0
 
 ☘️福建频道,#genre#
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
@@ -502,8 +501,8 @@ IPTV热播剧场,url
 「浙江」余杭综合频道,url
 「浙江」云和新闻综合,url
 浙江钱江,url
+浙江钱江都市,url
 浙江钱江台,url
-浙江教育,url
 浙江民生,url
 杭州西湖明珠,url
 杭州青少,url
@@ -523,6 +522,7 @@ NBTV-2,url
 NBTV-3,url
 NBTV-4,url
 浙江教科,url
+浙江经济,url
 嘉兴公共,url
 嘉兴文化影视,url
 丽水公共,url
@@ -542,6 +542,7 @@ NBTV-4,url
 浙江松阳,url
 浙江数码时代,url
 浙江教科影院,url
+浙江教科影视,url
 浙江公共新闻,url
 浙江休闲台,url
 浙江龙泉,url
@@ -750,7 +751,6 @@ BTV纪实,url
 贾汪新闻,url
 贾汪旅游,url
 赣榆新闻综合,url
-连云港公共,url
 金坛新闻,url
 镇江二套社会民生,url
 镇江新闻综合,url
@@ -843,7 +843,6 @@ BTV纪实,url
 凌云综合,url
 凭祥综合,url
 北海新闻综合,url
-北海经济科教,url
 南宁影娱乐,url
 博白综合,url
 天等综合,url
@@ -982,6 +981,8 @@ BTV纪实,url
 延安一套新闻综合,url
 延安二套公共,url
 陕西农林,url
+陕西新闻资讯,url
+陕西都市青春,url
 陕西生活,url
 陕西购物,url
 陕西影视,url
@@ -1532,4 +1533,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2025-08-07 06:28:31,http://1.94.31.214/php/hntv.php?id=hnds
+2025-08-07 07:29:44,http://1.94.31.214/php/hntv.php?id=hnds
