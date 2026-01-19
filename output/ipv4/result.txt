@@ -142,21 +142,18 @@
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 
 ☘️北京频道,#genre#
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1768826421&sign=58d592d246cbea1741884ca2cb806ed6
-北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1768830018&sign=66581c00fb3b5f4d470632542a85880d
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1768826417&sign=0f67314ab42a7edf9b929da97bd072c8
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1768826413&sign=ba7132ca73705c52f6719f1080c1c4f4
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1768826416&sign=4f17618e8659ce584badd0e89de83476
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1768826411&sign=47ddc078dae66b058133a23cc0167571
-北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1768826412&sign=8eb213435642e0d5066538a720cb2d62
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1768826415&sign=c205c27247eec752c9b8d058536da74a
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1768830017&sign=cf1d2cf07249f455dc24a6b1a173ad85
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1768830014&sign=54d781cdc5f9407141cb413d3ebc89d3
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1768830016&sign=1c9a1ce9b49fd01996115a0670353c33
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1768830011&sign=bab6000642055218e863f4d658a3c6fc
+北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1768830013&sign=4c1e65c112b51cfaa2bf3ca596ffdd7e
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1768830015&sign=17648a116a0aeac0c8c27fc7d4f7f9c8
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 ☘️重庆频道,#genre#
 
@@ -205,8 +202,6 @@
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
-甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
-甘肃都市,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 临夏州综合,http://play.kankanlive.com/live/1714096320293954.m3u8
 嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
@@ -241,7 +236,6 @@
 
 ☘️吉林频道,#genre#
 「吉林」延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
-吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 
 ☘️内蒙古频道,#genre#
 
@@ -557,6 +551,7 @@ BTV纪实,url
 上海教育,url
 上海新闻综合,url
 上海点掌财经,url
+上海第一财经,url
 上海纪实,url
 上海都市,url
 上海金山电视台,url
@@ -575,6 +570,7 @@ BTV纪实,url
 法治天地,url
 生活时尚,url
 纪实人文,url
+都市剧场,url
 金山电视台,url
 金色频道,url
 璧山综合,url
@@ -1075,7 +1071,9 @@ BTV纪实,url
 遵义新闻综合,url
 遵义公共,url
 崆峒综合,url
+甘肃经济,url
 甘肃公共,url
+甘肃都市,url
 甘肃文化,url
 临夏州公共,url
 临夏市电视台,url
@@ -1401,6 +1399,7 @@ BTV纪实,url
 吉林都市,url
 吉林生活,url
 吉林影院,url
+吉林乡村,url
 吉林公共,url
 吉林7频道,url
 东北戏曲频道,url
@@ -1536,4 +1535,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-01-19 20:56:02,http://1.94.31.214/php/hntv.php?id=hnds
+2026-01-19 21:50:16,http://1.94.31.214/php/hntv.php?id=hnds
