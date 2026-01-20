@@ -61,7 +61,6 @@
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-嘉佳卡通,https://zby.130519.xyz/PLTV/11/224/3221226021/index.m3u8
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
 佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
@@ -81,18 +80,7 @@
 ☘️上海频道,#genre#
 上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20250919080134d0a4f61e680b4d1b8d2460b858ff1fec&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c6e37e6787e81aeb250c874ff8533137&ddCalcu=7c36e1e13313705e86f7f8477e88c10a5e2b
 上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2025091908013429b62173a5e24f8ea1f310d5ed32e792&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c828d22c926cc843970f3f1c7455bea&ddCalcu=a6eceb815285804d72c21cf932f60c7c9834
-上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
-东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
-东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
-动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
-哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
-新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
-欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
-法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
-生活时尚,https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8
-第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
 第一财经,http://ls.qingting.fm/live/276.m3u8
-都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 
 ☘️重庆频道,#genre#
 
@@ -138,7 +126,6 @@
 湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
 湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
 湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
-金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
 长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8
 
 ☘️湖北频道,#genre#
@@ -302,6 +289,7 @@
 广东新闻,url
 广东公共,url
 广东少儿,url
+嘉佳卡通,url
 IPTV热播剧场,url
 广东民生,url
 广东影视,url
@@ -587,14 +575,24 @@ BTV纪实,url
 上海教育,url
 上海点掌财经,url
 上海纪实,url
+上海都市,url
 上海金山电视台,url
 上视外语,url
 上视新闻,url
+东方影视,url
+东方财经,url
 全纪实,url
+动漫秀场,url
+哈哈炫动,url
 嘉定电视台,url
 天水公共,url
 崇明电视台,url
+新闻综合,url
+欢笑剧场,url
+法治天地,url
+生活时尚,url
 纪实人文,url
+都市剧场,url
 金山电视台,url
 金色频道,url
 璧山综合,url
@@ -716,6 +714,7 @@ BTV纪实,url
 湖南教育,url
 湖南公共,url
 金鹰纪实,url
+金鹰卡通,url
 湖南金鹰纪实,url
 长沙新闻,url
 长沙政法,url
@@ -1514,4 +1513,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-01-20 15:32:51,http://1.94.31.214/php/hntv.php?id=hnds
+2026-01-20 16:38:50,http://1.94.31.214/php/hntv.php?id=hnds
