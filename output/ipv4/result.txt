@@ -54,13 +54,14 @@
 中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?
 
 ☘️北京频道,#genre#
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1770568214&sign=997dd014cdcd3d1947fab5caa2b9d78b
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1770564015&sign=49435b3e4abaef168f51c78e2143bc9f
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1770564012&sign=585f94f689fd448cfaf198b461f1bfd9
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1770564011&sign=868639b5e49685d960624f47401e1f00
-北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1770564012&sign=67e746f0d694d425775859dbf6efc30e
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1770564013&sign=0041770ef459e310a3dc97c0886a4879
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1770568213&sign=053af94b27a2d7548d81c77f414fd06d
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1770568210&sign=9e0d86cb3f84f6e570e6562c2a6f03f5
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1770568208&sign=b85bd835c71dbee9e0d24f8ba943719c
+北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1770568209&sign=22ca62303ba1d5ea2f851cf8faa00d20
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1770568211&sign=121daf7491a6ea024d456823b7957ccb
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
@@ -88,7 +89,6 @@
 
 ☘️广西频道,#genre#
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
-南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 宾阳综合,rtmp://live.gxrb.com.cn/gx/binyang
 巴马综合,rtmp://live.gxrb.com.cn/gx/bama
 
@@ -121,11 +121,11 @@
 成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
 景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8?zgand
 武威新闻,https://play.kankanlive.com/live/1693539781636986.m3u8
-永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
+永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
 甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
+白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1680577080200944.m3u8
 舟曲新闻,http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
 西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
@@ -526,7 +526,6 @@ NBTV-4,url
 上虞新商都,url
 上虞文化影院,url
 上虞文化影视,url
-北京卡酷少儿,url
 北京生活,url
 BTV纪实,url
 清华大学电视台,url
@@ -1516,4 +1515,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-02-08 23:32:21,http://1.94.31.214/php/hntv.php?id=hnds
+2026-02-09 00:35:33,http://1.94.31.214/php/hntv.php?id=hnds
