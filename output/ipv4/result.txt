@@ -54,14 +54,13 @@
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 
 ☘️北京频道,#genre#
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1770555015&sign=2b328229192d031829f089dd99b1c7fa
-北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1770558014&sign=548c5303a5bd62ebbe72be6400d71226
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1770555013&sign=95cc8c3ae62206ac0a3c523990a29236
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1770555012&sign=2c9ca0ddf506d8adea47e9ba1912fd9c
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1770555008&sign=704006175ef439b9c88a8f2c6c3054e1
-北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1770555010&sign=80aeea2e40014200963d2681ab98c549
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1770555011&sign=db6b23dfb6a86fb5d585bf7545040e57
+北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1770558013&sign=586db58125539030a9804619fdea25ee
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1770558010&sign=946437b19f155cd95bc110d6470c5e19
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1770558008&sign=ede4326db4b02388c43b9e4b9c7b634f
+北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1770558009&sign=1996b456a325cb44927aeb143c0f1d80
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
@@ -77,8 +76,8 @@
 宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 泗阳综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 
 ☘️辽宁频道,#genre#
 
@@ -88,12 +87,12 @@
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 
 ☘️广西频道,#genre#
-南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 宾阳综合,rtmp://live.gxrb.com.cn/gx/binyang
 巴马综合,rtmp://live.gxrb.com.cn/gx/bama
 
 ☘️天津频道,#genre#
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
+武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
@@ -525,7 +524,8 @@ NBTV-4,url
 上虞新商都,url
 上虞文化影院,url
 上虞文化影视,url
-北京影视,url
+北京生活,url
+北京财经,url
 BTV纪实,url
 清华大学电视台,url
 石景山有线,url
@@ -775,6 +775,7 @@ BTV纪实,url
 凭祥综合,url
 北海新闻综合,url
 北海经济科教,url
+南宁公共,url
 南宁影娱乐,url
 南宁新闻综合,url
 南宁都市生活,url
@@ -811,7 +812,6 @@ BTV纪实,url
 滨海新闻,url
 滨海综艺,url
 滨海影院,url
-武清综合,url
 天津都市,url
 天津新闻,url
 天津文艺,url
@@ -1515,4 +1515,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-02-08 20:56:12,http://1.94.31.214/php/hntv.php?id=hnds
+2026-02-08 21:50:11,http://1.94.31.214/php/hntv.php?id=hnds
