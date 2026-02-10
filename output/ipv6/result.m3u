@@ -137,6 +137,8 @@ http://php.jdshipin.com:8880/fstv.php?id=fsgm
 http://php.jdshipin.com:8880/fstv.php?id=fsss
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="☘️广东频道",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="☘️广东频道",重温经典
+https://other.ottiptv.cc/cwjd.m3u8
 #EXTINF:-1 tvg-name="「浙江」缙云综合频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/「浙江」缙云综合频道.png" group-title="☘️浙江频道",「浙江」缙云综合频道
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
 #EXTINF:-1 tvg-name="「浙江」开化国家公园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/「浙江」开化国家公园.png" group-title="☘️浙江频道",「浙江」开化国家公园
@@ -2969,5 +2971,5 @@ url
 url
 #EXTINF:-1 tvg-name="七台河民生社教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七台河民生社教.png" group-title="🈳无结果频道",七台河民生社教
 url
-#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="🕘️更新时间",2026-02-11 05:46:07
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="🕘️更新时间",2026-02-11 06:42:36
 http://1.94.31.214/php/hntv.php?id=hnds
