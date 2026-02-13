@@ -124,7 +124,6 @@
 浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -296,8 +295,8 @@
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 
 ☘️广西频道,#genre#
-南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
+南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 宾阳综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
 宾阳综合,rtmp://live.gxrb.com.cn/gx/binyang
@@ -367,6 +366,7 @@
 
 ☘️贵州频道,#genre#
 安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
+安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
 
 ☘️甘肃频道,#genre#
 甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
@@ -433,13 +433,11 @@
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
 施甸综合,http://live.ynurl.com/video/s10048TV/index.m3u8?zyund
-梁河综合,http://live.ynurl.com/video/s10032-lhtv/index.m3u8?zyund
 江川综合,http://live.ynurl.com/video/s10037-JCTV/index.m3u8?zyund
 瑞丽综合,http://live.ynurl.com/video/s10021-rltv/index.m3u8?zyund
-盈江综合,http://live.ynurl.com/video/s10016-yjtv1hd/index.m3u8
+盈江综合,http://live.ynurl.com/video/s10016-YJTV-2/index.m3u8?zyund
 石屏综合,http://live.ynurl.com/video/s10059-SPTV/index.m3u8?zyund
 砚山电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
-砚山电视台,http://live.ynurl.com/video/s10020-ystv/index.m3u8?zyund
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8?zyund
 芒市综合,http://live.ynurl.com/video/s10001-mstv1/index.m3u8?zyund
 蒙自综合,http://live.ynurl.com/video/s10019-mzdst/index.m3u8?zyund
@@ -1512,6 +1510,7 @@ BTV纪实,url
 易门综合,url
 普洱公共,url
 普洱新闻综合,url
+梁河综合,url
 永善综合,url
 泸水综合,url
 福贡综合,url
@@ -1580,4 +1579,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-02-13 10:18:13,http://1.94.31.214/php/hntv.php?id=hnds
+2026-02-13 12:57:28,http://1.94.31.214/php/hntv.php?id=hnds
