@@ -66,8 +66,8 @@
 宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 泗阳综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
+镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️辽宁频道,#genre#
 
@@ -140,19 +140,6 @@
 ☘️内蒙古频道,#genre#
 
 ☘️云南频道,#genre#
-屏边综合,http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund
-开远综合,http://live.ynurl.com/video/s10044-KYTV/index.m3u8?zyund
-施甸综合,http://live.ynurl.com/video/s10048TV/index.m3u8?zyund
-梁河综合,http://live.ynurl.com/video/s10032-lhtv/index.m3u8?zyund
-瑞丽综合,http://live.ynurl.com/video/s10021-rltv/index.m3u8?zyund
-盈江综合,http://live.ynurl.com/video/s10016-YJTV-2/index.m3u8?zyund
-石屏综合,http://live.ynurl.com/video/s10059-SPTV/index.m3u8?zyund
-砚山电视台,http://live.ynurl.com/video/s10020-ystv/index.m3u8?zyund
-腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8?zyund
-芒市综合,http://live.ynurl.com/video/s10001-mstv1/index.m3u8?zyund
-蒙自综合,http://live.ynurl.com/video/s10019-mzdst/index.m3u8?zyund
-金平综合,http://live.ynurl.com/video/s10041-JPTV/index.m3u8?zyund
-陇川综合,http://live.ynurl.com/video/s10027-LCDST/index.m3u8?zyund
 
 ☘️青海频道,#genre#
 
@@ -1421,12 +1408,15 @@ BTV纪实,url
 元阳综合,url
 安宁综合,url
 宾川一套,url
+屏边综合,url
 峨山电视,url
 巧家综合,url
 广南电视台,url
+开远综合,url
 彝良综合,url
 文山州公共,url
 文山州新闻综合,url
+施甸综合,url
 昆明公共,url
 昆明影综艺,url
 昆明新闻综合,url
@@ -1435,19 +1425,29 @@ BTV纪实,url
 易门综合,url
 普洱公共,url
 普洱新闻综合,url
+梁河综合,url
 永善综合,url
 江川综合,url
 泸水综合,url
+瑞丽综合,url
+盈江综合,url
+石屏综合,url
+砚山电视台,url
 福贡综合,url
 红塔电视台,url
 红河县综合,url
 红河州新闻综合,url
 绥江综合,url
 美丽云南,url
+腾冲综合,url
+芒市综合,url
+蒙自综合,url
 西双版纳公共,url
 西双版纳综合,url
 贡山综合,url
 通海电视台,url
+金平综合,url
+陇川综合,url
 马关电视台,url
 麻栗坡电视台,url
 云南都市,url
@@ -1513,4 +1513,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-02-14 00:51:13,http://1.94.31.214/php/hntv.php?id=hnds
+2026-02-14 01:44:51,http://1.94.31.214/php/hntv.php?id=hnds
