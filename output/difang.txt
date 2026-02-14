@@ -204,6 +204,7 @@
 上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2025091908013429b62173a5e24f8ea1f310d5ed32e792&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c828d22c926cc843970f3f1c7455bea&ddCalcu=a6eceb815285804d72c21cf932f60c7c9834
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 第一财经,http://ls.qingting.fm/live/276.m3u8
+第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 ☘️重庆频道,#genre#
@@ -273,8 +274,8 @@
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 
 ☘️广西频道,#genre#
-南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 宾阳综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
 宾阳综合,rtmp://live.gxrb.com.cn/gx/binyang
@@ -286,6 +287,7 @@
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 
 ☘️天津频道,#genre#
+津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️四川频道,#genre#
@@ -319,6 +321,8 @@
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 
 ☘️海南频道,#genre#
 海南新闻,http://ls.qingting.fm/live/1861.m3u8
@@ -909,7 +913,6 @@ BTV纪实,url
 滨海新闻,url
 滨海综艺,url
 滨海影院,url
-津南一套,url
 天津都市,url
 天津新闻,url
 天津文艺,url
@@ -1040,9 +1043,7 @@ BTV纪实,url
 龙岩公共,url
 龙岩新闻综合,url
 福建文体,url
-福建新闻,url
 福建电视剧,url
-福建经济,url
 福建综合,url
 福建公共,url
 福建旅游,url
@@ -1561,4 +1562,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-02-14 14:48:39,http://1.94.31.214/php/hntv.php?id=hnds
+2026-02-14 15:36:35,http://1.94.31.214/php/hntv.php?id=hnds
