@@ -92,6 +92,7 @@
 巴马综合,rtmp://live.gxrb.com.cn/gx/bama
 
 ☘️天津频道,#genre#
+津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️四川频道,#genre#
@@ -130,6 +131,9 @@
 靖远综合,http://play.kankanlive.com/live/1692005762394912.m3u8
 
 ☘️新疆频道,#genre#
+哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
+哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
+哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 
 ☘️山东频道,#genre#
 
@@ -804,7 +808,6 @@ BTV纪实,url
 滨海新闻,url
 滨海综艺,url
 滨海影院,url
-津南一套,url
 天津都市,url
 天津新闻,url
 天津文艺,url
@@ -1132,9 +1135,6 @@ BTV纪实,url
 克拉玛依影剧场,url
 克拉玛依生活娱乐,url
 克拉玛依新闻,url
-哈密一套,url
-哈密二套,url
-哈密三套,url
 伊犁汉语综合,url
 伊犁维吾尔,url
 伊犁哈萨克,url
@@ -1514,4 +1514,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-02-18 18:47:27,http://1.94.31.214/php/hntv.php?id=hnds
+2026-02-18 19:41:56,http://1.94.31.214/php/hntv.php?id=hnds
