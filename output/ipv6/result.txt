@@ -102,15 +102,9 @@
 「浙江」余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 「浙江」云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江钱江台,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
-浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
@@ -189,9 +183,12 @@
 南通新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/ntxwzh/51/20250604/index.m3u8?msisdn=202509190801352ef9ff3bad3f4a65b064683f87e439c3&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20250919080135&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=106.13.250.88&SecurityKey=20250919080135&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=98aea868da861defcb53a7c9f1ba5a81&ddCalcu=1988eaa15e5aa0b816f89dca78a6315dbecf
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
-无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=081040171706199780
-无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=95a5f0d51706199864
-无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=31414f601706199828
+无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
+无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
+无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
+无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
+无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
+无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 江苏城市,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202509030900312c5ad926e30449e5b9405f27a3fde9a6&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20250903090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.83&SecurityKey=20250903090031&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3712225a575d903704881b6443f50a06&ddCalcu=6307va1a02x52af2354a4567b51d89804307&sv=10004&ct=android
 沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 沭阳综合,https://shuyang-tv-hls.cm.jstv.com:443/shuyang-tv/shuyangzh.m3u8
@@ -500,8 +497,11 @@ IPTV热播剧场,url
 「浙江」宁波-象山综合,url
 「浙江」宁波-余姚综合,url
 「浙江」田电视台,url
+浙江钱江都市,url
+浙江经济生活,url
 浙江教育,url
 浙江民生,url
+浙江新闻,url
 浙江少儿,url
 杭州综合,url
 杭州明珠,url
@@ -528,6 +528,7 @@ NBTV-4,url
 浙江教科,url
 浙江经济,url
 之江纪录,url
+浙江国际,url
 嘉兴公共,url
 嘉兴文化影视,url
 丽水公共,url
@@ -545,9 +546,11 @@ NBTV-4,url
 温州新闻综合,url
 浙江经视,url
 浙江留学,url
+浙江民生休闲,url
 浙江松阳,url
 浙江数码时代,url
 浙江教科影院,url
+浙江教科影视,url
 浙江公共新闻,url
 浙江休闲台,url
 浙江龙泉,url
@@ -684,8 +687,6 @@ BTV纪实,url
 扬州新闻,url
 扬州生活,url
 扬州邗江,url
-无锡新闻综合,url
-无锡都市资讯,url
 武进新闻,url
 武进生活,url
 江宁新闻,url
@@ -1535,4 +1536,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-02-23 10:14:12,http://1.94.31.214/php/hntv.php?id=hnds
+2026-02-23 13:02:51,http://1.94.31.214/php/hntv.php?id=hnds
