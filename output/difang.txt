@@ -59,8 +59,8 @@
 
 ☘️广东频道,#genre#
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
@@ -249,6 +249,7 @@
 沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 沭阳综合,https://shuyang-tv-hls.cm.jstv.com:443/shuyang-tv/shuyangzh.m3u8
 泗洪新闻综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
+泗阳综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
 涟水电视台综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
 涟水电视台综合,https://lianshui-tv-hls.cm.jstv.com:443/lianshui-tv/lsxw.m3u8
 涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
@@ -368,10 +369,10 @@
 成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
 景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8?zgand
 武威新闻,https://play.kankanlive.com/live/1693539781636986.m3u8
-永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
 永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
-白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
+永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
+白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1680577080200944.m3u8
 舟曲新闻,http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
 西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
@@ -379,9 +380,6 @@
 靖远综合,http://play.kankanlive.com/live/1692005762394912.m3u8
 
 ☘️新疆频道,#genre#
-哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
-哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
-哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 
 ☘️山东频道,#genre#
 山东生活,http://ls.qingting.fm/live/60260.m3u8
@@ -777,7 +775,6 @@ BTV纪实,url
 江苏影视,url
 江苏教育,url
 沛县新闻综合,url
-泗阳综合,url
 泗阳资讯,url
 泰州一套新闻综合,url
 泰州三套影视娱乐,url
@@ -1224,6 +1221,9 @@ BTV纪实,url
 克拉玛依影剧场,url
 克拉玛依生活娱乐,url
 克拉玛依新闻,url
+哈密一套,url
+哈密二套,url
+哈密三套,url
 伊犁汉语综合,url
 伊犁维吾尔,url
 伊犁哈萨克,url
@@ -1575,4 +1575,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-02-25 14:06:22,http://1.94.31.214/php/hntv.php?id=hnds
+2026-02-25 15:56:13,http://1.94.31.214/php/hntv.php?id=hnds
