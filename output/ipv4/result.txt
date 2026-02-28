@@ -57,7 +57,6 @@
 
 ☘️上海频道,#genre#
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 ☘️重庆频道,#genre#
@@ -65,9 +64,6 @@
 ☘️江苏频道,#genre#
 宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 泗阳综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
-镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
-镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️辽宁频道,#genre#
 
@@ -83,8 +79,6 @@
 巴马综合,rtmp://live.gxrb.com.cn/gx/bama
 
 ☘️天津频道,#genre#
-津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
@@ -93,8 +87,6 @@
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
-福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 
 ☘️海南频道,#genre#
 
@@ -122,16 +114,12 @@
 靖远综合,http://play.kankanlive.com/live/1692005762394912.m3u8
 
 ☘️新疆频道,#genre#
-哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
-哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
-哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
-滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
 
 ☘️宁夏频道,#genre#
 
@@ -532,6 +520,7 @@ BTV纪实,url
 欢笑剧场,url
 法治天地,url
 生活时尚,url
+第一财经,url
 纪实人文,url
 金山电视台,url
 金色频道,url
@@ -655,6 +644,8 @@ BTV纪实,url
 连云港公共,url
 连云港新闻综合,url
 金坛新闻,url
+镇江二套社会民生,url
+镇江新闻综合,url
 靖江新闻综合,url
 高邮一套新闻综合,url
 高邮综合,url
@@ -793,6 +784,8 @@ BTV纪实,url
 滨海新闻,url
 滨海综艺,url
 滨海影院,url
+津南一套,url
+武清综合,url
 天津都市,url
 天津新闻,url
 天津文艺,url
@@ -938,7 +931,9 @@ BTV纪实,url
 龙岩公共,url
 龙岩新闻综合,url
 福建文体,url
+福建新闻,url
 福建电视剧,url
+福建经济,url
 福建综合,url
 福建公共,url
 福建旅游,url
@@ -1120,6 +1115,9 @@ BTV纪实,url
 克拉玛依影剧场,url
 克拉玛依生活娱乐,url
 克拉玛依新闻,url
+哈密一套,url
+哈密二套,url
+哈密三套,url
 伊犁汉语综合,url
 伊犁维吾尔,url
 伊犁哈萨克,url
@@ -1296,6 +1294,7 @@ BTV纪实,url
 石台综合,url
 灵璧综合,url
 潜山新闻综合,url
+滁州科教,url
 滁州新闻综合,url
 滁州市广播电视台 科教,url
 滁州市广播电视台 新闻综合,url
@@ -1513,4 +1512,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-02-28 15:32:04,http://1.94.31.214/php/hntv.php?id=hnds
+2026-02-28 16:34:58,http://1.94.31.214/php/hntv.php?id=hnds
