@@ -278,12 +278,9 @@
 ☘️湖北频道,#genre#
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
-荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 
 ☘️广西频道,#genre#
-南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
-南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 宾阳综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
 宾阳综合,rtmp://live.gxrb.com.cn/gx/binyang
@@ -296,7 +293,6 @@
 
 ☘️天津频道,#genre#
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
@@ -365,10 +361,10 @@
 成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
 景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8?zgand
 武威新闻,https://play.kankanlive.com/live/1693539781636986.m3u8
-永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
+永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
+白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 舟曲新闻,http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
 西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
@@ -875,6 +871,7 @@ BTV纪实,url
 凭祥综合,url
 北海新闻综合,url
 北海经济科教,url
+南宁公共,url
 南宁影娱乐,url
 南宁新闻综合,url
 博白综合,url
@@ -907,6 +904,7 @@ BTV纪实,url
 滨海新闻,url
 滨海综艺,url
 滨海影院,url
+武清综合,url
 天津都市,url
 天津新闻,url
 天津文艺,url
@@ -1568,4 +1566,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-03-04 19:34:50,http://1.94.31.214/php/hntv.php?id=hnds
+2026-03-04 21:03:07,http://1.94.31.214/php/hntv.php?id=hnds
