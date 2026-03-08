@@ -136,6 +136,7 @@
 
 ☘️上海频道,#genre#
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 ☘️重庆频道,#genre#
@@ -148,13 +149,6 @@
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️辽宁频道,#genre#
-朝阳新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000282
-辽宁北方,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000071
-辽宁影视剧,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000070
-辽宁教育青少,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000075
-辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000073
-辽宁经济,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000076
-辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000068
 
 ☘️湖南频道,#genre#
 湖南电视剧,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz0yODUxNGViMDMzMTQxNjdjYTNiMzYxNjlmNTRmOGYzMSZ1aWQ9JnV1aWQ9ZTRkODgyNGE1YzQ4ZjVkOGQ4MjRmMWRjYzdlOGRlMWUtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0MDQwMTU5Nw,,/HNDSJMPP360.m3u8
@@ -170,8 +164,6 @@
 巴马综合,rtmp://live.gxrb.com.cn/gx/bama
 
 ☘️天津频道,#genre#
-津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
@@ -180,6 +172,8 @@
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
+福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 
 ☘️海南频道,#genre#
 
@@ -207,15 +201,13 @@
 靖远综合,http://play.kankanlive.com/live/1692005762394912.m3u8
 
 ☘️新疆频道,#genre#
-哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
-哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
-哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
+滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
 
 ☘️宁夏频道,#genre#
 
@@ -548,7 +540,6 @@ BTV纪实,url
 欢笑剧场,url
 法治天地,url
 生活时尚,url
-第一财经,url
 纪实人文,url
 金山电视台,url
 金色频道,url
@@ -676,6 +667,13 @@ BTV纪实,url
 高邮一套新闻综合,url
 高邮综合,url
 朝阳教育,url
+朝阳新闻综合,url
+辽宁北方,url
+辽宁影视剧,url
+辽宁教育青少,url
+辽宁生活,url
+辽宁经济,url
+辽宁都市,url
 锦州一套新闻综合,url
 锦州二套教育,url
 湖南都市,url
@@ -801,6 +799,8 @@ BTV纪实,url
 滨海新闻,url
 滨海综艺,url
 滨海影院,url
+津南一套,url
+武清综合,url
 天津都市,url
 天津新闻,url
 天津文艺,url
@@ -946,9 +946,7 @@ BTV纪实,url
 龙岩公共,url
 龙岩新闻综合,url
 福建文体,url
-福建新闻,url
 福建电视剧,url
-福建经济,url
 福建综合,url
 福建公共,url
 福建旅游,url
@@ -1130,6 +1128,9 @@ BTV纪实,url
 克拉玛依影剧场,url
 克拉玛依生活娱乐,url
 克拉玛依新闻,url
+哈密一套,url
+哈密二套,url
+哈密三套,url
 伊犁汉语综合,url
 伊犁维吾尔,url
 伊犁哈萨克,url
@@ -1306,7 +1307,6 @@ BTV纪实,url
 石台综合,url
 灵璧综合,url
 潜山新闻综合,url
-滁州科教,url
 滁州新闻综合,url
 滁州市广播电视台 科教,url
 滁州市广播电视台 新闻综合,url
@@ -1523,4 +1523,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-03-08 15:36:36,http://1.94.31.214/php/hntv.php?id=hnds
+2026-03-08 16:37:19,http://1.94.31.214/php/hntv.php?id=hnds
