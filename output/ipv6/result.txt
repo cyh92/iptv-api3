@@ -6,7 +6,7 @@
 河南新闻,http://www.cdnstv.com:6398/hls/1114/index.m3u8
 河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
 河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
-郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&amp;wsTime=1654956569
+郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -163,7 +163,7 @@
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
 旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
+松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
@@ -253,14 +253,10 @@
 麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
 
 ☘️青海频道,#genre#
-西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 
 ☘️黑龙江频道,#genre#
-「黑龙江」黑龙江文体「IPV6」,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-「黑龙江」黑龙江都市「IPV6」,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 「黑龙江」黑龙江少儿「IPV6」,https://ls.qingting.fm/live/4972/64k.m3u8
-黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 
@@ -1495,7 +1491,9 @@ BTV纪实,url
 青海经视,url
 青海都市,url
 青海综合,url
+「黑龙江」黑龙江文体「IPV6」,url
 「黑龙江」黑龙江农业科教「IPV6」,url
+「黑龙江」黑龙江都市「IPV6」,url
 「黑龙江」黑龙江影视「IPV6」,url
 「黑龙江」黑龙新闻法治「IPV6」,url
 「黑龙江」鹤岗新闻综合「IPV6」,url
@@ -1504,9 +1502,11 @@ BTV纪实,url
 「黑龙江」齐齐哈尔新闻综合「IPV6」,url
 「黑龙江」双鸭山公共「IPV6」,url
 「黑龙江」双鸭山综合「IPV6」,url
+黑龙江文体,url
 黑龙江新闻法治,url
 黑龙江公共农业,url
 黑龙江影视,url
+黑龙江都市,url
 黑龙江科教,url
 哈尔滨新闻综合,url
 哈尔滨影视,url
@@ -1529,4 +1529,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-03-13 00:04:16,http://1.94.31.214/php/hntv.php?id=hnds
+2026-03-13 01:53:49,http://1.94.31.214/php/hntv.php?id=hnds
