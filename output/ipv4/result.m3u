@@ -287,6 +287,10 @@ http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&acce
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000076
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000068
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电视剧.png" group-title="☘️湖南频道",湖南电视剧
+http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz0yODUxNGViMDMzMTQxNjdjYTNiMzYxNjlmNTRmOGYzMSZ1aWQ9JnV1aWQ9ZTRkODgyNGE1YzQ4ZjVkOGQ4MjRmMWRjYzdlOGRlMWUtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0MDQwMTU5Nw,,/HNDSJMPP360.m3u8
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南国际.png" group-title="☘️湖南频道",湖南国际
+http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz0zYTExOGIwNDMyM2Y3Y2EyYjAyZDFjOTE3Yjc4YmU1YSZ1aWQ9JnV1aWQ9OGE4MjU5MWIyOWJkZGMzYWJiNDIxMzFjMmRhNTlkYjMtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0MDQwODkzNA,,/HNGJMPP360.m3u8
 #EXTINF:-1 tvg-name="江夏新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江夏新闻综合.png" group-title="☘️湖北频道",江夏新闻综合
 http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 #EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南宁公共.png" group-title="☘️广西频道",南宁公共
@@ -1245,8 +1249,6 @@ url
 url
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南经视.png" group-title="🈳无结果频道",湖南经视
 url
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电视剧.png" group-title="🈳无结果频道",湖南电视剧
-url
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电影.png" group-title="🈳无结果频道",湖南电影
 url
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南爱晚.png" group-title="🈳无结果频道",湖南爱晚
@@ -1254,8 +1256,6 @@ url
 #EXTINF:-1 tvg-name="湖南教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南教育.png" group-title="🈳无结果频道",湖南教育
 url
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南娱乐.png" group-title="🈳无结果频道",湖南娱乐
-url
-#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南国际.png" group-title="🈳无结果频道",湖南国际
 url
 #EXTINF:-1 tvg-name="湖南公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南公共.png" group-title="🈳无结果频道",湖南公共
 url
@@ -2925,5 +2925,5 @@ url
 url
 #EXTINF:-1 tvg-name="七台河民生社教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七台河民生社教.png" group-title="🈳无结果频道",七台河民生社教
 url
-#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="🕘️更新时间",2026-03-25 05:42:55
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="🕘️更新时间",2026-03-25 06:48:08
 http://1.94.31.214/php/hntv.php?id=hnds
