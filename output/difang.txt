@@ -190,8 +190,8 @@
 宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
-无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=081040171706199780
+无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=95a5f0d51706199864
 无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
@@ -225,6 +225,7 @@
 
 ☘️湖北频道,#genre#
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
+荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 
 ☘️广西频道,#genre#
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
@@ -788,7 +789,6 @@ BTV纪实,url
 仙桃新闻综合,url
 麻城综合,url
 郧阳新闻综合,url
-荆门新闻综合,url
 云梦综合,url
 云梦党建农业,url
 武汉生活,url
@@ -1506,4 +1506,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-04-06 01:35:20,http://1.94.31.214/php/hntv.php?id=hnds
+2026-04-06 02:48:08,http://1.94.31.214/php/hntv.php?id=hnds
