@@ -145,6 +145,8 @@ http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisd
 https://mgtv.ottiptv.cc/migu/608780988.m3u8?migutoken=0c7df30d952e5d120406d3eb259cd5e26ec6aa86037008719de147cc6fbc34e877c3e3d7b9617267f35521bdddc4c5995e6fc0583816a5df1bfe19814868525e736733676761a4b2d4db618e84
 #EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海第一财经.png" group-title="☘️上海频道",上海第一财经
 http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2025091908013429b62173a5e24f8ea1f310d5ed32e792&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c828d22c926cc843970f3f1c7455bea&ddCalcu=a6eceb815285804d72c21cf932f60c7c9834
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海都市.png" group-title="☘️上海频道",上海都市
+https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="☘️上海频道",东方影视
 https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="☘️上海频道",东方财经
@@ -391,10 +393,6 @@ http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
 https://ls.qingting.fm/live/21303/64k.m3u8
 #EXTINF:-1 tvg-name="祁门综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/祁门综合.png" group-title="☘️安徽频道",祁门综合
 http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
-#EXTINF:-1 tvg-name="滁州科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州科教.png" group-title="☘️安徽频道",滁州科教
-http://live.cztv.cc:85/live/sjpd.m3u8
-#EXTINF:-1 tvg-name="滁州公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州公共.png" group-title="☘️安徽频道",滁州公共
-http://live.cztv.cc:85/live/ggpd.m3u8
 #EXTINF:-1 tvg-name="六安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/六安新闻综合.png" group-title="☘️安徽频道",六安新闻综合
 http://ls.qingting.fm/live/267.m3u8
 #EXTINF:-1 tvg-name="六安公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/六安公共.png" group-title="☘️安徽频道",六安公共
@@ -1092,8 +1090,6 @@ url
 #EXTINF:-1 tvg-name="上海点掌财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海点掌财经.png" group-title="🈳无结果频道",上海点掌财经
 url
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海纪实.png" group-title="🈳无结果频道",上海纪实
-url
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海都市.png" group-title="🈳无结果频道",上海都市
 url
 #EXTINF:-1 tvg-name="上海金山电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海金山电视台.png" group-title="🈳无结果频道",上海金山电视台
 url
@@ -2543,6 +2539,8 @@ url
 url
 #EXTINF:-1 tvg-name="潜山新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潜山新闻综合.png" group-title="🈳无结果频道",潜山新闻综合
 url
+#EXTINF:-1 tvg-name="滁州科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州科教.png" group-title="🈳无结果频道",滁州科教
+url
 #EXTINF:-1 tvg-name="滁州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州新闻综合.png" group-title="🈳无结果频道",滁州新闻综合
 url
 #EXTINF:-1 tvg-name="滁州市广播电视台 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州市广播电视台 科教.png" group-title="🈳无结果频道",滁州市广播电视台 科教
@@ -2550,6 +2548,8 @@ url
 #EXTINF:-1 tvg-name="滁州市广播电视台 新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州市广播电视台 新闻综合.png" group-title="🈳无结果频道",滁州市广播电视台 新闻综合
 url
 #EXTINF:-1 tvg-name="滁州市广播电视台 公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州市广播电视台 公共.png" group-title="🈳无结果频道",滁州市广播电视台 公共
+url
+#EXTINF:-1 tvg-name="滁州公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州公共.png" group-title="🈳无结果频道",滁州公共
 url
 #EXTINF:-1 tvg-name="湾沚区新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湾沚区新闻综合.png" group-title="🈳无结果频道",湾沚区新闻综合
 url
@@ -2941,5 +2941,5 @@ url
 url
 #EXTINF:-1 tvg-name="七台河民生社教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七台河民生社教.png" group-title="🈳无结果频道",七台河民生社教
 url
-#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="🕘️更新时间",2026-04-15 13:29:58
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="🕘️更新时间",2026-04-15 15:51:40
 http://1.94.31.214/php/hntv.php?id=hnds
