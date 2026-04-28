@@ -50,7 +50,7 @@
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
 浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
@@ -61,8 +61,9 @@
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
@@ -131,7 +132,6 @@
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
@@ -162,8 +162,8 @@
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 
 ☘️广西频道,#genre#
-南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 宾阳综合,rtmp://live.gxrb.com.cn/gx/binyang
 巴马综合,rtmp://live.gxrb.com.cn/gx/bama
 
@@ -190,20 +190,12 @@
 ☘️甘肃频道,#genre#
 甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 甘肃都市,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
-临夏州综合,http://play.kankanlive.com/live/1714096320293954.m3u8
 嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
-天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
-成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
-景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8?zgand
-武威新闻,https://play.kankanlive.com/live/1693539781636986.m3u8
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
 渭源新闻,http://play.kankanlive.com/live/1720408280309109.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
-舟曲新闻,http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
 西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
-通渭综合,https://play.kankanlive.com/live/1725005047185027.m3u8
-靖远综合,http://play.kankanlive.com/live/1692005762394912.m3u8
 
 ☘️新疆频道,#genre#
 哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
@@ -521,6 +513,7 @@ NBTV-4,url
 北京文艺,url
 北京纪实科教,url
 北京财经,url
+北京青年,url
 BTV纪实,url
 清华大学电视台,url
 石景山有线,url
@@ -1047,6 +1040,7 @@ BTV纪实,url
 甘肃公共,url
 甘肃文化,url
 临夏州公共,url
+临夏州综合,url
 临夏市电视台,url
 临洮综合,url
 临潭综合,url
@@ -1057,6 +1051,7 @@ BTV纪实,url
 夏河综合,url
 天水公共,url
 天水新闻综合,url
+天祝综合,url
 宁县综合,url
 定西公共,url
 定西综合,url
@@ -1068,9 +1063,12 @@ BTV纪实,url
 张掖公共,url
 张掖新闻综合,url
 徽县综合,url
+成县综合,url
 敦煌综合,url
+景泰综合,url
 正宁综合,url
 武威凉州,url
+武威新闻,url
 武山综合,url
 武都综合,url
 民乐新闻,url
@@ -1094,8 +1092,10 @@ BTV纪实,url
 积石山综合,url
 肃北综合,url
 肃州综合,url
+舟曲新闻,url
 西和综合,url
 迭部综合,url
+通渭综合,url
 酒泉公共,url
 酒泉综合,url
 金塔综合,url
@@ -1104,6 +1104,7 @@ BTV纪实,url
 镇原综合,url
 阿克塞综合,url
 陇西综合,url
+靖远综合,url
 静宁综合,url
 高台综合,url
 「新疆」兵团八师石河子教育,url
@@ -1520,4 +1521,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-04-28 17:25:28,http://1.94.31.214/php/hntv.php?id=hnds
+2026-04-28 19:48:06,http://1.94.31.214/php/hntv.php?id=hnds
