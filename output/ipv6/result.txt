@@ -6,7 +6,7 @@
 河南新闻,http://www.cdnstv.com:6398/hls/1114/index.m3u8
 河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
 河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
-郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
+郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&amp;wsTime=1654956569
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8#http://live.dxhmt.cn:9081/tv/10185-1.m3u8
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -61,14 +61,8 @@
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
 ☘️浙江频道,#genre#
-浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
-浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
@@ -151,8 +145,8 @@
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
-泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
+泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
@@ -161,8 +155,8 @@
 陕西公共,http://ls.qingting.fm/live/1222.m3u8
 
 ☘️福建频道,#genre#
-三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
+三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
@@ -226,10 +220,14 @@
 麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
 
 ☘️青海频道,#genre#
-西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 
 ☘️黑龙江频道,#genre#
+「黑龙江」黑龙江文体「IPV6」,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+「黑龙江」黑龙江都市「IPV6」,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 「黑龙江」黑龙江少儿「IPV6」,https://ls.qingting.fm/live/4972/64k.m3u8
+黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 
@@ -422,9 +420,12 @@ IPTV热播剧场,url
 「浙江」余杭综合频道,url
 「浙江」云和新闻综合,url
 浙江钱江,url
+浙江钱江都市,url
 浙江钱江台,url
+浙江经济生活,url
 浙江教育,url
 浙江民生,url
+浙江新闻,url
 浙江少儿,url
 杭州综合,url
 杭州明珠,url
@@ -451,6 +452,7 @@ NBTV-4,url
 浙江教科,url
 浙江经济,url
 之江纪录,url
+浙江国际,url
 嘉兴公共,url
 嘉兴文化影视,url
 丽水公共,url
@@ -468,9 +470,11 @@ NBTV-4,url
 温州新闻综合,url
 浙江经视,url
 浙江留学,url
+浙江民生休闲,url
 浙江松阳,url
 浙江数码时代,url
 浙江教科影院,url
+浙江教科影视,url
 浙江公共新闻,url
 浙江休闲台,url
 浙江龙泉,url
@@ -1473,9 +1477,7 @@ BTV纪实,url
 青海经视,url
 青海都市,url
 青海综合,url
-「黑龙江」黑龙江文体「IPV6」,url
 「黑龙江」黑龙江农业科教「IPV6」,url
-「黑龙江」黑龙江都市「IPV6」,url
 「黑龙江」黑龙江影视「IPV6」,url
 「黑龙江」黑龙新闻法治「IPV6」,url
 「黑龙江」鹤岗新闻综合「IPV6」,url
@@ -1484,11 +1486,9 @@ BTV纪实,url
 「黑龙江」齐齐哈尔新闻综合「IPV6」,url
 「黑龙江」双鸭山公共「IPV6」,url
 「黑龙江」双鸭山综合「IPV6」,url
-黑龙江文体,url
 黑龙江新闻法治,url
 黑龙江公共农业,url
 黑龙江影视,url
-黑龙江都市,url
 黑龙江科教,url
 哈尔滨新闻综合,url
 哈尔滨影视,url
@@ -1511,4 +1511,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-05-09 05:03:28,http://1.94.31.214/php/hntv.php?id=hnds
+2026-05-09 06:58:51,http://1.94.31.214/php/hntv.php?id=hnds
