@@ -142,7 +142,6 @@
 
 ☘️江苏频道,#genre#
 宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
-泗阳综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
@@ -155,8 +154,10 @@
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 
 ☘️广西频道,#genre#
+南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 宾阳综合,rtmp://live.gxrb.com.cn/gx/binyang
 巴马综合,rtmp://live.gxrb.com.cn/gx/bama
+南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 
 ☘️天津频道,#genre#
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
@@ -621,6 +622,7 @@ BTV纪实,url
 沛县新闻综合,url
 沭阳综合,url
 泗洪新闻综合,url
+泗阳综合,url
 泗阳资讯,url
 泰州一套新闻综合,url
 泰州三套影视娱乐,url
@@ -754,7 +756,6 @@ BTV纪实,url
 凭祥综合,url
 北海新闻综合,url
 北海经济科教,url
-南宁公共,url
 南宁影娱乐,url
 南宁新闻综合,url
 南宁都市生活,url
@@ -786,7 +787,6 @@ BTV纪实,url
 广西贺州,url
 广西国际,url
 广西乐思购,url
-南宁影视娱乐,url
 宁河新闻,url
 滨海新闻,url
 滨海综艺,url
@@ -1521,4 +1521,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-05-27 20:56:20,http://1.94.31.214/php/hntv.php?id=hnds
+2026-05-28 00:42:01,http://1.94.31.214/php/hntv.php?id=hnds
