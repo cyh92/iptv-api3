@@ -24,8 +24,12 @@
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
 ☘️浙江频道,#genre#
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
-嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
@@ -117,8 +121,6 @@
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
-福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 
 ☘️海南频道,#genre#
 海南新闻,http://ls.qingting.fm/live/1861.m3u8
@@ -415,12 +417,9 @@ IPTV热播剧场,url
 「浙江」余杭综合频道,url
 「浙江」云和新闻综合,url
 浙江钱江,url
-浙江钱江都市,url
 浙江钱江台,url
-浙江经济生活,url
 浙江教育,url
 浙江民生,url
-浙江新闻,url
 浙江少儿,url
 杭州综合,url
 杭州明珠,url
@@ -448,6 +447,7 @@ NBTV-4,url
 浙江经济,url
 之江纪录,url
 浙江国际,url
+嘉兴新闻综合,url
 嘉兴公共,url
 嘉兴文化影视,url
 丽水公共,url
@@ -465,11 +465,9 @@ NBTV-4,url
 温州新闻综合,url
 浙江经视,url
 浙江留学,url
-浙江民生休闲,url
 浙江松阳,url
 浙江数码时代,url
 浙江教科影院,url
-浙江教科影视,url
 浙江公共新闻,url
 浙江休闲台,url
 浙江龙泉,url
@@ -943,7 +941,9 @@ BTV纪实,url
 漳州新闻综合,url
 漳浦综合,url
 石狮综合,url
+福州少儿,url
 福州影院,url
+福州生活,url
 福州综合,url
 霞浦综合,url
 龙岩公共,url
@@ -1508,4 +1508,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-05-31 19:01:31,http://1.94.31.214/php/hntv.php?id=hnds
+2026-05-31 20:21:20,http://1.94.31.214/php/hntv.php?id=hnds
