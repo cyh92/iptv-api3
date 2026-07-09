@@ -69,6 +69,8 @@
 ☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
+广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
+旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
 
 ☘️陕西频道,#genre#
 
@@ -78,6 +80,10 @@
 ☘️海南频道,#genre#
 
 ☘️河北频道,#genre#
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 
 ☘️贵州频道,#genre#
 
@@ -798,7 +804,6 @@ BTV纪实,url
 平武综合,url
 广元公共,url
 广元综合,url
-广安公共,url
 康定综合,url
 开江新闻综合,url
 德阳公共,url
@@ -806,7 +811,6 @@ BTV纪实,url
 成都高新电视,url
 攀枝花新闻综合,url
 新都综合,url
-旺苍新闻综合,url
 昭化综合,url
 朝天综合,url
 松潘新闻综合,url
@@ -939,7 +943,6 @@ BTV纪实,url
 赵县电视,url
 邯郸新闻,url
 邯郸科技,url
-邯郸公共,url
 成安综艺,url
 邱县一套,url
 邱县二套,url
@@ -961,13 +964,10 @@ BTV纪实,url
 睛彩河北,url
 大名电视台,url
 鹿泉一套,url
-邯郸科技教育,url
 邯郸科教,url
-邢台综合,url
 邢台城生,url
 衡水公共,url
 滦平新闻,url
-昌黎综合,url
 任丘文娱,url
 任丘综合,url
 兴隆综合,url
@@ -1491,4 +1491,4 @@ BTV纪实,url
 七台河民生社教,url
 
 🕘️更新时间,#genre#
-2026-07-09 08:11:07,http://1.94.31.214/php/hntv.php?id=hnds
+2026-07-09 12:54:35,http://1.94.31.214/php/hntv.php?id=hnds
