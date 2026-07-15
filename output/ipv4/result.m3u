@@ -275,6 +275,8 @@ https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 rtmp://live.gxrb.com.cn/gx/binyang
 #EXTINF:-1 tvg-name="巴马综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/巴马综合.png" group-title="☘️广西频道",巴马综合
 rtmp://live.gxrb.com.cn/gx/bama
+#EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南宁影视娱乐.png" group-title="☘️广西频道",南宁影视娱乐
+http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 #EXTINF:-1 tvg-name="津南一套" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/津南一套.png" group-title="☘️天津频道",津南一套
 http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 #EXTINF:-1 tvg-name="乐至综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/乐至综合.png" group-title="☘️四川频道",乐至综合
@@ -299,8 +301,6 @@ http://play.kankanlive.com/live/1720408280309109.m3u8
 http://play.kankanlive.com/live/1720408089419110.m3u8
 #EXTINF:-1 tvg-name="西峰综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西峰综合.png" group-title="☘️甘肃频道",西峰综合
 https://play.kankanlive.com/live/1683944827526991.m3u8
-#EXTINF:-1 tvg-name="滁州科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州科教.png" group-title="☘️安徽频道",滁州科教
-http://live.cztv.cc:85/live/sjpd.m3u8
 #EXTINF:-1 tvg-name="「吉林」延边卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/「吉林」延边卫视.png" group-title="☘️吉林频道",「吉林」延边卫视
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
 #EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林乡村.png" group-title="☘️吉林频道",吉林乡村
@@ -1455,8 +1455,6 @@ url
 url
 #EXTINF:-1 tvg-name="广西乐思购" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西乐思购.png" group-title="🈳无结果频道",广西乐思购
 url
-#EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南宁影视娱乐.png" group-title="🈳无结果频道",南宁影视娱乐
-url
 #EXTINF:-1 tvg-name="宁河新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁河新闻.png" group-title="🈳无结果频道",宁河新闻
 url
 #EXTINF:-1 tvg-name="滨海新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滨海新闻.png" group-title="🈳无结果频道",滨海新闻
@@ -2495,6 +2493,8 @@ url
 url
 #EXTINF:-1 tvg-name="潜山新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潜山新闻综合.png" group-title="🈳无结果频道",潜山新闻综合
 url
+#EXTINF:-1 tvg-name="滁州科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州科教.png" group-title="🈳无结果频道",滁州科教
+url
 #EXTINF:-1 tvg-name="滁州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州新闻综合.png" group-title="🈳无结果频道",滁州新闻综合
 url
 #EXTINF:-1 tvg-name="滁州市广播电视台 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州市广播电视台 科教.png" group-title="🈳无结果频道",滁州市广播电视台 科教
@@ -2923,5 +2923,5 @@ url
 url
 #EXTINF:-1 tvg-name="七台河民生社教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七台河民生社教.png" group-title="🈳无结果频道",七台河民生社教
 url
-#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="🕘️更新时间",2026-07-15 20:18:40
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="🕘️更新时间",2026-07-15 22:54:25
 http://1.94.31.214/php/hntv.php?id=hnds
